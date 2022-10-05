@@ -1,6 +1,6 @@
 
 
-Hello! I'm Gabrieli Brutscher👋
+### Hello! I'm Gabrieli Brutscher👋
 
 - 👩🏻‍🎓 I'm currently studying Computer Science at UFFS.
 - 🖥️ I'm currently learning the Java language. 
