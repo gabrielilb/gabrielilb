@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm Gabrieli Brutscher</h2>
+<h2 align="left">Hello 👋, I'm Gabrieli Brutscher</h2>
 
 - 👩🏻‍🎓 I'm currently studying **Computer Science at UFFS.**
 
