@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Gabrieli Brutscher</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielilb" alt="gabrielilb" /></a> </p>
 
 - 👩🏻‍🎓 I'm currently studying **Computer Science at UFFS.**
 
