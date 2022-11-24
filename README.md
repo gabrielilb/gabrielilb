@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋, eu sou a Gabrieli Brutscher</h2>
+<h2 align="left">Olá, eu sou a Gabrieli! 👋 </h2>
 
 - 👩🏻‍🎓 Estudante do 3º semestre de **Ciência da Computação** na UFFS.
 
