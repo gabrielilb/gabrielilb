@@ -1,8 +1,8 @@
-<h2 align="left">Hello 👋, I'm Gabrieli Brutscher</h2>
+<h2 align="left">Olá 👋, eu sou a Gabrieli Brutscher</h2>
 
-- 👩🏻‍🎓 I'm currently studying **Computer Science at UFFS.**
+- 👩🏻‍🎓 Estudante do 3º semestre de **Ciência da Computação** na UFFS.
 
-- 🖥️ I'm currently learning **the Java language.**
+- 🖥️ No momento estou aprendendo a linguagem de programação **Java**.
 ##
 
 <h4 align="left">🚀💻 Languages and Tools</h4>
