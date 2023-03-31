@@ -1,6 +1,6 @@
 <h2 align="left">Olá, eu sou a Gabrieli! 👋 </h2>
 
-- 👩🏻‍🎓 Estudante do 3º semestre de **Ciência da Computação** na UFFS.
+- 👩🏻‍🎓 Estudante do 4º semestre de **Ciência da Computação** na UFFS.
 
 - 🖥️ No momento estou aprendendo a linguagem de programação **Java**.
 ##
