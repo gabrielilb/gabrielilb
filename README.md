@@ -2,7 +2,7 @@
 
 - 👩🏻‍🎓 Estudante do 4º semestre de **Ciência da Computação** na UFFS.
 
-- 🖥️ No momento estou aprendendo a linguagem de programação **Java**.
+- 🖥️ No momento estou aprendendo **Java**, **C**, **HTML**, **CSS**, **JS** e **PHP**.
 ##
 
 <h4 align="left">Linguagens e ferramentas 🚀💻</h4>
