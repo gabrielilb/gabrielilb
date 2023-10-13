@@ -1,10 +1,6 @@
 <h2 align="left">Olá, eu sou a Gabrieli! 👋 </h2>
 
-<div align="left">
-- 👩🏻‍🎓 Estudante do 5º semestre de **Ciência da Computação** na UFFS.
-  
-  <a href="https://www.linkedin.com/in/gabrieli-brutscher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+👩🏻‍🎓 Estudante do 5º semestre de **Ciência da Computação** na UFFS.
 
 ##
 
@@ -23,3 +19,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielilb&langs_count=7&theme=dark"/>
 </div>
 
+##
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabrieli-brutscher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
