@@ -1,9 +1,8 @@
 <h2 align="left">Olá, eu sou a Gabrieli! 👋 </h2>
 
-- 👩🏻‍🎓 Estudante do 5º semestre de **Ciência da Computação** na UFFS.
-
-##
 <div align="left">
+- 👩🏻‍🎓 Estudante do 5º semestre de **Ciência da Computação** na UFFS.
+  
   <a href="https://www.linkedin.com/in/gabrieli-brutscher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
