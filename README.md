@@ -1,8 +1,3 @@
-<h2 align="left">Olá, eu sou a Gabrieli! 👋 </h2>
-
-👩🏻‍🎓 Estudante do 5º semestre de **Ciência da Computação** na UFFS.
-
-##
 
 <div align="center">
   <a href="https://github.com/gabrielilb">
